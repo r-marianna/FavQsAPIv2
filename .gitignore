@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+FavQsAPIv2/
+venv/
+env/
+ENV/
+
+# Pytest cache
+.pytest_cache/
+tests/__pycache__
+tests/.pytest_cache
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# VSCode settings
+.vscode/
+
+# Other
+*.log

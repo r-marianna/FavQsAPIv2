@@ -24,6 +24,7 @@ python -m venv FavQsAPIv2
 
 **Bash in VSCode (Windows):**
 ```bash
+python -m venv FavQsAPIv2
 source FavQsAPIv2/Scripts/activate
 ```
 
